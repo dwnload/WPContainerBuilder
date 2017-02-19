@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Dwnload\\WpContainerBuilder\\": "src"
+      "Dwnload\\WpContainerBuilder\\": "src/"
     }
   }
 }
